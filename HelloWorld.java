@@ -9,4 +9,8 @@ public class HelloWorld {
 		return i;
 	}
 	
+	public int setI() {
+		return i;
+	}
+	
 }
